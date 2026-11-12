@@ -1,1 +1,1 @@
-# condor-sentine
+# condor-sentinela
